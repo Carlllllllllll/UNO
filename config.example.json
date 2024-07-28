@@ -1,9 +1,9 @@
 {
-  "token": "bot token",
+  "token": "",
   "oauth": {
-    "id": "client id",
-    "redirect": "http://localhost:8108/callback",
-    "secret": "client secret",
+    "id": "1185184629515362334",
+    "redirect": "https://music-bot-js6r.onrender.com",
+    "secret": "aCJFS94Z00UwhP1Asmbl6aAt13xnvO68",
     "authSecret": "someamazingsecret"
   },
   "shard": 0,
